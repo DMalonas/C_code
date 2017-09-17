@@ -6,7 +6,6 @@ int main(void)
 {
     double **arr;
     int i, j, rows, cols;
-    int git_var;
 
     for(;;)
     {
