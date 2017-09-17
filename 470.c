@@ -6,6 +6,7 @@ int main(void)
 {
     double **arr;
     int i, j, rows, cols;
+    float added_var;
 
     for(;;)
     {
